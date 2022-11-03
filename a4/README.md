@@ -30,7 +30,7 @@ Also note that the random numbers you generate will of course be different than 
 However, the random numbers should be within the ranges specified in Table 2 below. The numbers should be
 arranged in nicely aligned (right‐justified) columns. There are no requirements with respect to white space. The
 class names GenRandom and ArtConfig are required for Part 2 for automated grading.
-![pic](pic2.png)
+![pic](a42.png)
 
 **Part 3**
 
