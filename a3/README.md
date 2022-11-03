@@ -1,4 +1,4 @@
-# Description of files in this directory.
+# SENG 265 Assignment 3 
 
 #### This Assignment
 
