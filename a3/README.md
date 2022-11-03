@@ -1,5 +1,26 @@
 # Description of files in this directory.
 
+#### This Assignment
+
+**process_cal3.c, Using C's heap memory**
+
+You are to write an implementation of process_cal in C such that:
+
+1. To store event info, you need to allocate storage on the heap dynamically. Dynamic data structures must
+be used in the form linked-list manipulation routines (i.e., arrays of events are not permitted for this
+assignment).
+2. The program itself consists of several C source files and a makefile for build management:
+- emalloc[.c or .h]: Code for safe calls to malloc, as is described in labs\lectures, is available here.
+- ics.h: Type definition for events
+-Linky[.c or .h]: Type definitions, prototypes, and codes for the singly-linked list implementation
+described in labs/lectures. To tailor the sample code to your solution, you need to modify some
+routines. However, you are fully responsible for any segmentation faults that occur as the result
+of this code’s operation. The entire code has to be correct.
+- makefile: This automates many of the steps required to build the process_cal3 executable,
+regardless of what files (.c or .h) are modified. This file can be invoked using the Bash command
+make.
+- process_cal3.c: The main file of the program.
+
 The files here are starter files for UVic SENG 265, Spring 2022
 Assignment #3.  The files are as follows:
 
