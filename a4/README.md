@@ -34,4 +34,4 @@ generate some beautiful greeting cards for your friends and family in the form o
 Projects 1 and 2 are test programs for the various classes required for Part 3. Instantiate three configuration class
 objects to generate different art types as depicted in Figure 3 below. Image titles and captions are optional. All
 the class names required for Parts 1 and 2 are required for Part 3.
-![pic](/pic.png)
+![pic](pic.png)
