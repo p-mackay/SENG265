@@ -8,7 +8,6 @@ Programs I wrote in SENG 265. Written in C and Python.
 # Welcome to my SENG 265 Term Portfolio Project
 
 
-![hello](https://wallpapercave.com/wp/MvrOQq0.jpg)
 <img src="https://wallpapercave.com/wp/MvrOQq0.jpg" align ="center" alt="Tux" style="height: 90;"/>
 
 
@@ -279,7 +278,7 @@ https://www.youtube.com/watch?v=rlA89I3Y0nQ&list=PLU4IQLU9e_Oq2dqhFV6n9shODnN8DR
 
 **Uvic COOP Resume Outline**
 
-![a2](/home/paul/newsite2/statis/coop.png "hello")
+![a2](/home/paul/newsite2/static/coop.png "hello")
 
 #### 3. Describe the difference between object-based and object-oriented programming. The first part of the Python lectures was object-based programming. The second part involves classes and is called object-oriented programming.
 
