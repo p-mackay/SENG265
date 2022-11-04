@@ -278,7 +278,7 @@ https://www.youtube.com/watch?v=rlA89I3Y0nQ&list=PLU4IQLU9e_Oq2dqhFV6n9shODnN8DR
 
 **Uvic COOP Resume Outline**
 
-![a2](/home/paul/newsite2/static/coop.png "hello")
+![a2](/coop.png "hello")
 
 #### 3. Describe the difference between object-based and object-oriented programming. The first part of the Python lectures was object-based programming. The second part involves classes and is called object-oriented programming.
 
